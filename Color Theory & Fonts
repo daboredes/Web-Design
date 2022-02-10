@@ -2,3 +2,4 @@ https://color.adobe.com/create/color-wheel
 El largo de un parrafo deberia ser de 40 a 60 caracteres
 https://www.dailyui.co/ para practicar el ui
 https://www.canva.com/ para diseniar
+rgba es red green blue alpha, siendo alpha un numero entre 0 y 1 que define que tan transparente es.
